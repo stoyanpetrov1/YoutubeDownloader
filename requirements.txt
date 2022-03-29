@@ -1,3 +1,7 @@
+Brotli==1.0.9
 ffmpeg==1.4
+mutagen==1.45.1
+pycryptodomex==3.14.1
 tk==0.1.0
-youtube-dl==2021.12.17
+websockets==10.2
+yt-dlp==2022.3.8.2
